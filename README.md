@@ -8,4 +8,4 @@
 
 I was also interested in **🌐Web Development** and **📡Communications**; I learned *front-end* and *back-end* technologies that allowed me to create exciting projects.
 
-Visit my [**portfolio** website][portfolio] to know much more about me.
+Take a look at my [**portfolio** website][portfolio] to know much more about me.
