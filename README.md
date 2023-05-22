@@ -1,6 +1,6 @@
 # ✋ Stop where you are! Let me introduce myself 🤠
 
-## I'm  ***Stefan Samson***, also known as [SSbit01][portfolio]
+## I'm  ***Stefan Samson***, also known as [SSbit01][website]
 
 A **passionate** and young **self-taught developer** who enjoys exploring and trying out the **latest technologies**.
 
